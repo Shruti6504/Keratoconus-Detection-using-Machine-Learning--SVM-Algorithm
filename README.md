@@ -1,0 +1,2 @@
+# Keratoconus-Detection-using-Machine-Learning--SVM-Algorithm
+Keratoconus, a progressive eye disorder, can lead to vision impairment if not detected early. Leveraging machine learning algorithms, this study analyzes corneal data obtained through advanced imaging techniques. The proposed model identifies intricate corneal patterns that are indicative of keratoconus, enabling accurate and timely diagnosis.
